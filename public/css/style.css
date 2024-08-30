@@ -70,7 +70,7 @@
 }
 
 .product-item .inner-content .inner-title {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 600px;
 }
 
@@ -78,6 +78,7 @@
     font-size: 18px;
     font-weight: 600;
     color: green;
+    margin-top: 20px;
 }
 
 .product-item .inner-content .inner-price-old {
